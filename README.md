@@ -185,7 +185,10 @@ Here are examples of the kinds of insights generated from the analysis:
 ### Readmission & Patient Trends
 ![Patient Trends Dashboard](images/patient-trends.png)
 
-> Add your real screenshots into the `images/` folder and update the file names if needed.
+### Readmission & Patient Trends
+![Patient Trends](images/dashboard-demo.gif)
+
+
 
 ---
 
